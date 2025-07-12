@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Software Engineering",
+    "question": "Which SDLC model emphasizes risk analysis?",
+    "options": ["A. Waterfall", "B. Spiral", "C. Agile", "D. RAD"],
+    "answer": "B"
+  },
+  {
+    "category": "Software Engineering",
+    "question": "What does UML stand for?",
+    "options": ["A. Unified Method Language", "B. Universal Modeling Logic", "C. Unified Modeling Language", "D. Universal Method Layer"],
+    "answer": "C"
+  },
+  {
+    "category": "Software Engineering",
+    "question": "What is the first phase of SDLC?",
+    "options": ["A. Design", "B. Testing", "C. Requirements gathering", "D. Implementation"],
+    "answer": "C"
+  },
+  {
+    "category": "Software Engineering",
+    "question": "Which of the following is NOT a principle of Agile?",
+    "options": ["A. Customer collaboration", "B. Following a plan strictly", "C. Responding to change", "D. Working software"],
+    "answer": "B"
+  },
+  {
+    "category": "Software Engineering",
+    "question": "Which of the following is a CASE tool?",
+    "options": ["A. GitHub", "B. NetBeans", "C. Rational Rose", "D. Chrome"],
+    "answer": "C"
+  },
+  {
+    "category": "Software Engineering",
+    "question": "In software testing, what is black-box testing?",
+    "options": ["A. Testing internal code", "B. Testing by developers", "C. Testing without knowledge of internal code", "D. Performance testing"],
+    "answer": "C"
+  },
+  {
+    "category": "Logical Reasoning",
+    "question": "Find the next number in the sequence: 2, 4, 8, 16, ?",
+    "options": ["A. 20", "B. 24", "C. 32", "D. 64"],
+    "answer": "C"
+  },
+  {
+    "category": "Logical Reasoning",
+    "question": "If all roses are flowers and some flowers fade quickly, which is correct?",
+    "options": ["A. All roses fade quickly", "B. Some roses fade quickly", "C. Some flowers are roses", "D. None of the above"],
+    "answer": "C"
+  },
+  {
+    "category": "Logical Reasoning",
+    "question": "Which word is the odd one out?",
+    "options": ["A. Apple", "B. Banana", "C. Mango", "D. Carrot"],
+    "answer": "D"
+  },
+  {
+    "category": "Logical Reasoning",
+    "question": "What comes next in the pattern: A, C, F, J, O, ?",
+    "options": ["A. T", "B. U", "C. Q", "D. S"],
+    "answer": "A"
+  },
+  {
+    "category": "Logical Reasoning",
+    "question": "If ‘apple’ is coded as ‘elppa’, how is ‘banana’ coded?",
+    "options": ["A. nanaba", "B. ananab", "C. naanab", "D. banaba"],
+    "answer": "B"
+  },
+  {
+    "category": "Logical Reasoning",
+    "question": "A man walks 10m north, turns right, walks 10m, turns right, walks 10m. Where is he facing?",
+    "options": ["A. North", "B. East", "C. South", "D. West"],
+    "answer": "C"
+  },
+  {
+    "category": "Quantitative Aptitude",
+    "question": "What is the value of (3^2 + 4^2)?",
+    "options": ["A. 25", "B. 12", "C. 49", "D. 35"],
+    "answer": "A"
+  },
+  {
+    "category": "Quantitative Aptitude",
+    "question": "A train travels 120 km in 2 hours. What is its speed?",
+    "options": ["A. 60 km/hr", "B. 120 km/hr", "C. 240 km/hr", "D. 90 km/hr"],
+    "answer": "A"
+  },
+  {
+    "category": "Quantitative Aptitude",
+    "question": "Simplify: 6 + 3 × (2 + 1)",
+    "options": ["A. 15", "B. 18", "C. 12", "D. 9"],
+    "answer": "A"
+  },
+  {
+    "category": "Quantitative Aptitude",
+    "question": "If 25% of x = 50, then x = ?",
+    "options": ["A. 100", "B. 150", "C. 200", "D. 250"],
+    "answer": "C"
+  },
+  {
+    "category": "Quantitative Aptitude",
+    "question": "What is the next prime number after 7?",
+    "options": ["A. 9", "B. 10", "C. 11", "D. 13"],
+    "answer": "C"
+  },
+  {
+    "category": "Quantitative Aptitude",
+    "question": "What is the square root of 144?",
+    "options": ["A. 10", "B. 11", "C. 12", "D. 13"],
+    "answer": "C"
+  },
+  {
+    "category": "Verbal Ability",
+    "question": "Choose the correct spelling:",
+    "options": ["A. Accommodate", "B. Acommodate", "C. Accomodate", "D. Acomodat"],
+    "answer": "A"
+  },
+  {
+    "category": "Verbal Ability",
+    "question": "Which is a synonym of ‘Rapid’?",
+    "options": ["A. Fast", "B. Lazy", "C. Late", "D. Ugly"],
+    "answer": "A"
+  },
+  {
+    "category": "Verbal Ability",
+    "question": "Choose the correct form: She ___ to the market yesterday.",
+    "options": ["A. Go", "B. Goes", "C. Went", "D. Going"],
+    "answer": "C"
+  },
+  {
+    "category": "Verbal Ability",
+    "question": "Choose the antonym of ‘Generous’",
+    "options": ["A. Kind", "B. Greedy", "C. Helpful", "D. Honest"],
+    "answer": "B"
+  },
+  {
+    "category": "Verbal Ability",
+    "question": "What is the plural of ‘Crisis’?",
+    "options": ["A. Crises", "B. Crisises", "C. Crisis", "D. Crisi"],
+    "answer": "A"
+  },
+  {
+    "category": "Verbal Ability",
+    "question": "Identify the part of speech for the word ‘quickly’",
+    "options": ["A. Noun", "B. Verb", "C. Adjective", "D. Adverb"],
+    "answer": "D"
+  },
+  {
+    "category": "Computer Knowledge",
+    "question": "What does CPU stand for?",
+    "options": ["A. Central Process Unit", "B. Central Processing Unit", "C. Computer Personal Unit", "D. Central Processor Utility"],
+    "answer": "B"
+  },
+  {
+    "category": "Computer Knowledge",
+    "question": "Which of the following is a programming language?",
+    "options": ["A. HTML", "B. SQL", "C. Python", "D. HTTP"],
+    "answer": "C"
+  },
+  {
+    "category": "Computer Knowledge",
+    "question": "What does RAM stand for?",
+    "options": ["A. Random Access Memory", "B. Run All Memory", "C. Read Access Mode", "D. Random Asset Memory"],
+    "answer": "A"
+  },
+  {
+    "category": "Computer Knowledge",
+    "question": "Which company developed Windows OS?",
+    "options": ["A. Apple", "B. Google", "C. Microsoft", "D. IBM"],
+    "answer": "C"
+  },
+  {
+    "category": "Computer Knowledge",
+    "question": "What is the shortcut for copying in Windows?",
+    "options": ["A. Ctrl + C", "B. Ctrl + X", "C. Ctrl + V", "D. Ctrl + P"],
+    "answer": "A"
+  },
+  {
+    "category": "Computer Knowledge",
+    "question": "Which one is not an output device?",
+    "options": ["A. Monitor", "B. Printer", "C. Keyboard", "D. Speaker"],
+    "answer": "C"
+  }
+]
